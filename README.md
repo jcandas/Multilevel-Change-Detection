@@ -3,8 +3,24 @@
 This code is an implementation of the change detection algorithm from the manuscript
 
 Julio Enrique Castrillon. Change Detection: A functional analysis perspective.  Arxiv (2020)
+https://arxiv.org/abs/2012.09141 
+ 
+ 
  
 Please cite this manuscript if you use this code for your research.
+
+Note that in this code I use several other matlab code from various authors. I am thankful 
+for the "Space Partitioning Trees" matlab code provided by Nakul Verma
+
+http://cseweb.ucsd.edu/~naverma/SpatialTrees/index.html
+
+Learning the structure of manifolds using random projections.
+Y. Freund, S. Dasgupta, M. Kabra and N. Verma.
+In Neural Information Processing Systems (NIPS), 2007.
+
+
+--------------------------------------------------------------------------------------------------
+
 
 The details of the two examples that can be found in the manuscript.
 
