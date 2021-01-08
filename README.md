@@ -9,7 +9,7 @@ https://arxiv.org/abs/2012.09141
  
 Please cite this manuscript if you use this code for your research.
 
-Note that in this code I use several other matlab code from various authors. I am thankful 
+Note that in this code I use several other matlab packages from various authors. I am thankful 
 for the "Space Partitioning Trees" matlab code provided by Nakul Verma
 
 http://cseweb.ucsd.edu/~naverma/SpatialTrees/index.html
